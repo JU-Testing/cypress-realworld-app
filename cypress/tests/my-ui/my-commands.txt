@@ -1,0 +1,19 @@
+npm install --global yarn
+
+git clone https://github.com/YourUsername/cypress-realworld-app.git
+
+git clone https://github.com/cypress-io/cypress-realworld-app.git
+
+
+yarn install
+
+yarn dev
+
+
+localhost:3000
+
+yarn list:dev:users
+
+s3cret
+
+yarn cypress open
